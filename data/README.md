@@ -100,5 +100,5 @@ There are 7 data files
 |city|Categorical| City of the user|
 |latitude|Numerical (continuous)|Latitude of the user|
 |longitude|Numerical (continuous)|Longitude of the user|
-|traffic_source|Traffic source leading to the user|
+|traffic_source|Categorical|Traffic source leading to the user|
 |created_at|Date-time|When the user account was created|
