@@ -1,9 +1,6 @@
 Source - https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset
-
-
 # Data Description
-Source - https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset
----
+
 There are 7 data files
 
 ## distribution_centers
