@@ -1,90 +1,46 @@
-### Project Brief
+# TheLook Ecommerce Performance & Customer Insights - Brief
 
-**E-commerce Performance & Diagnostic Analysis**
-#### Business context
+## Purpose
+As a data analyst in TheLook's central data team, you are to provide decision-support insights across Marketing, Customer Grow (CRM), Product & Merchandising, and Operations. The focus of this work is to understand performance drivers, diagnose issues, and inform near-term (6-12 month) planning through clear, evidence-backed recommendations.
 
-This analysis is conducted by the central data team of a mid-to-large e-commerce business operating across multiple product categories and markets. Leadership has observed variability in recent commercial performance and is seeking a clearer, evidence-based understanding of how the business is performing and which areas are driving change.
+## Business Context
+TheLook operates a large-scale e-commerce platform in a competitive retail environment. Growth depends on effective customer acquisition and retention, profitable product assortments, and operational efficiency as order volume scales. Multiple teams rely on shared data to make decisions, but require tailored insights aligned to their specific objectives.
 
-The objective of this work is to support informed discussion during a **quarterly executive performance review**, align stakeholders on current performance trends, and identify priority areas for further investigation or action.
+## Team-Focused Questions
+### Customer Growth / CRM
+**Problem**: Retention and long-term customer value are critical as acquisition costs rise.
+- How have retention and repeat purchase patterns changed over the last 24–36 months, segmented by acquisition channel, demographics (age/gender), and location?
+- Which customer behaviours best predict long-term value (e.g. first-purchase category, AOV, time to second order), where long-term value is defined by revenue, profit, and repeat purchases?
+- Which customer groups consistently drive disproportionate revenue?
+- Where do post-purchase drop-offs occur (e.g. returns, low engagement), and how do these vary by segment?
 
----
+**Decisions Supported**: Retention initiatives, loyalty programs, customer prioritisation.
 
-#### Audience
+### Product and Merchandising
+**Problem**: Broad assortments increase inventory risk and margin pressure.
+- Which categories and brands have underperformed over the last 24–36 months, considering sales volume, gross margin, sell-through, and returns?
+- How do product performance metrics vary by seasonality, price tier, or proximity to distribution centres?
+- What product-level patterns are associated with higher return rates (e.g. category, brand-specific issues)?
+- Where do returns materially reduce margin?
+- Which products drive revenue while disproportionately increasing operational or return-related costs?
+**Decisions Supported**: Assortment optimisation, pricing focus, product lifecycle decisions.
 
-This analysis is intended for a mixed audience:
+### Operations
 
-- **Executive leadership (primary audience)** — CEO, COO, Head of Commercial  
-    Focused on high-level performance, drivers of change, and implications for near-term decisions.
-- **Commercial and product stakeholders (secondary audience)** — category leads, product managers  
-    Interested in segment-level performance to guide prioritisation.
-- **Data and analytics peers (tertiary audience)** — analysts and analytics engineers  
-    Ensure clarity of metric definitions, assumptions, and analytical robustness.
-    
+**Problem**: Order growth must be supported without disproportionate fulfilment cost.
+- How are sales volume, AOV, and customer density distributed across regions, and how has this changed over the last 36 months?
+- Which regions demonstrate the fastest growth and highest long-term potential?
+- Are certain regions operationally inefficient relative to revenue contribution?
+- What is the relationship between customer-to-distribution-centre distance and key metrics (e.g. delivery time, returns, cart abandonment)?
+- Where could targeted operational investment deliver the highest impact?
+**Decisions Supported**: Fulfilment planning, geographic prioritisation, risk management
 
----
+## Deliverables
+- **Executive Report**:
+A structured executive report containing Power BI visualisations, forming a core component of the quarterly stakeholder reporting pack. The report will synthesise key findings, risks, and recommendations across teams.
 
-#### Time horizon
+- **Stakeholder Presentation**:
+A 20–30 minute presentation delivered during the quarterly stakeholder meeting, presenting the findings of the executive report to senior stakeholders, supported by Power BI dashboards.
 
-The analysis focuses on the **most recent 12–18 months** of available data.  
-This window is long enough to identify meaningful trends while remaining relevant to near-term decision-making.
-
----
-
-#### Primary executive question
-
-**How has overall e-commerce performance changed over the past year, and which areas are driving those changes?**
-
-This question anchors the analysis and provides a high-level view of commercial health.
-
----
-
-#### Supporting executive questions
-
-##### 1. Performance overview
-
-**How have key commercial metrics evolved over time, and are recent changes materially different from historical patterns?**
-
-This establishes what is happening at the topline and whether observed changes represent normal variability or meaningful shifts.
-
----
-##### 2. Segment drivers
-
-**Which product categories, markets, or customer segments are contributing most to changes in overall performance?**
-
-This moves beyond topline metrics to identify where performance is strengthening or deteriorating.
-
----
-##### 3. Decomposition of change
-
-**Are observed performance changes primarily driven by volume, pricing, or product mix effects?**
-
-This diagnostic step helps explain _why_ performance is changing, not just where.
-
----
-##### 4. Emerging risks and opportunities
-
-**Are there early indicators of emerging risks or opportunities that warrant further investigation or action?**
-
-This frames the analysis toward forward-looking decision support without over-claiming certainty.
-
----
-
-#### Decision relevance
-
-The insights from this analysis are intended to inform:
-
-- Commercial and category prioritisation
-- Areas requiring deeper investigation
-- Metrics and segments that warrant closer ongoing monitoring
-
-The analysis provides **directional, evidence-based guidance**, not definitive causal conclusions.
-
----
-
-#### Explicitly out of scope
-
-To maintain focus and credibility, this analysis does not attempt to:
-
-- Forecast future performance
-- Perform marketing attribution or causal inference
-- Optimise pricing or assortment strategies
+- **Analysis Documentation**:
+Full documentation of the analysis, assumptions, and data limitations in a version-controlled GitHub repository to support transparency, reproducibility, and future iteration.
