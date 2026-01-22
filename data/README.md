@@ -8,8 +8,7 @@ There are 7 data files
 |Column|Data Type|Description|
 |---|---|---|
 |id|Numerical (discrete)|Unique distribution center identifier|
-|city|Categorical|City of the distribution center|
-|state|Categorical|State of the distribution center|
+|name|Categorical|City and state of the distribution center|
 |latitude|Numerical (continuous)|Latitude of the distribution center|
 |longitude|Numerical (continuous)|Longitude of the distribution center|
 
