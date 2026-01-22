@@ -16,6 +16,16 @@ TheLook operates a large-scale e-commerce platform in a competitive retail envir
 
 **Decisions Supported**: Retention initiatives, loyalty programs, customer prioritisation.
 
+### Marketing
+**Problem**: Marketing budgets must be allocated efficiently across acquisition channels.
+- How do conversion rates vary by traffic source over the last 12–24 months?
+- Which channels consistently acquire higher-quality customers, measured by downstream behaviour such as repeat purchase, order value, and long-term value?
+- How does post-acquisition behaviour (e.g. engagement events, time to second purchase, return rates) differ by traffic source?
+- How does traffic source performance vary by customer segment (e.g. demographics, device, geography)?
+- Where are signs of diminishing returns or lower-quality traffic emerging, based on declining conversion or engagement over time?
+
+**Decisions Supported**: Channel prioritisation, budget reallocation, campaign evaluation.
+
 ### Product and Merchandising
 **Problem**: Broad assortments increase inventory risk and margin pressure.
 - Which categories and brands have underperformed over the last 24–36 months, considering sales volume, gross margin, sell-through, and returns?
