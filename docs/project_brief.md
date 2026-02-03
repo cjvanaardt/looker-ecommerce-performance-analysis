@@ -10,7 +10,7 @@ TheLook operates a large-scale e-commerce platform in a competitive retail envir
 ### Customer Growth / CRM
 **Problem**: Retention and long-term customer value are critical as acquisition costs rise.
 - How have retention and repeat purchase patterns changed over the last 24–36 months, segmented by acquisition channel, demographics (age/gender), and location?
-- Which customer behaviours best predict long-term value (e.g. first-purchase category, AOV, time to second order), where long-term value is defined by revenue, profit, and repeat purchases?
+- Which customer behaviours and characteristics best predict long-term value (e.g. first-purchase category, time to second order), where long-term value is defined by revenue and profit?
 - Which customer groups consistently drive disproportionate revenue?
 - Where do post-purchase drop-offs occur (e.g. returns, low engagement), and how do these vary by segment?
 
