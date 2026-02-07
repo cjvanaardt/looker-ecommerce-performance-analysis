@@ -10,6 +10,10 @@ Initial repeated order items notes
   - Most orders come from search and organic.
   - This is similar throughout all periods, again stabalising towards the end of 2024.
   - All ages contribute a similar amount of orders across all periods.
+- Number of repeated orders / number of total orders (total and by month)
+  - 
+
+
 
 Repeat purchase patterns (by Y-M)
 - Number of repeated orders (-> see if something is driving the growth more than others)
