@@ -113,6 +113,9 @@ Summary
 
 
 
+# Data Quality Impact
+- Have to remove rows with created_at after delivered_at when calcualting Average Delivery Time Measure.
+
 
 # Data Modelling Observations
 To be further investigated in another project.
