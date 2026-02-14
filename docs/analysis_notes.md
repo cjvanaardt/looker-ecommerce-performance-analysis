@@ -22,7 +22,10 @@ Relevant features include
   - first_order_profit
   - first_order_item_count
   - most_common_category
+- Date differences and horizons
   - time_to_second_order (days)
+  - days_since_first_purchase
+  - avg_days_between_orders
   - (binary) has_repeated (30, 90, 180 days)
   - orders (90, 180, 365 days)
 - Value & RFM
