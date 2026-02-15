@@ -22,7 +22,7 @@ Relevant features include
   - first_order_profit
   - first_order_item_count
   - most_common_category
-- Date differences and horizons
+- Date differences
   - time_to_second_order (days)
   - days_since_first_purchase
   - avg_days_between_orders
@@ -33,6 +33,7 @@ Relevant features include
   - profit (90, 180, 365 days)
   - lifetime_revenue
   - lifetime_profit
+  - total_orders
   - lifetime_AOV
   - recency_days (days since last order)
 - purchase dropoff
@@ -42,4 +43,3 @@ Relevant features include
   - no activity (events) in last (90, 180, 360, 540, 720 days)
   - last_browser
   - last_uri
-  - most common browser
