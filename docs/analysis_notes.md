@@ -43,3 +43,34 @@ Relevant features include
   - no activity (events) in last (90, 180, 360, 540, 720 days)
   - last_browser
   - last_uri
+  
+## Exploratory Analaysis
+We first focus on 180 day and 365 day horizon analysis. They are short enough to explore act upon while also being long enough to observe meaningful repeat purchase behaviour.
+
+We keep only cohorts with more than 0.6 365d maturity proportion to preserve data quality.
+
+Remark: If we want insights closer to the analysis date we can instead analyse shorter 30, 90 or 180 day chorts, but these might contain less useful repeat purchase behaviour.
+
+Metrics we want to explore by cohort
+
+General repeat cohort behaviour (for each also include the )
+- how many and what proportion are repeating? (outside of 180, 365 for curiosity)
+  - repeaters share
+  - repeat rate 30
+  - repeat rate 90
+  - repeat rate 180
+  - repeat rate 365
+  - repeat rate 540
+- early behaviour
+  - avg_time_to_second_order
+  - median_time_to_second_order
+  - avg_days_between_orders
+- value & lifetime signals
+  - avg_lifetime_AOV (and median)
+  - avg_lifetime_profit (and median)
+  - avg_total_items (and median)
+- Recency
+  - avg_days_since_last_order
+Repeat user behaviour relative to all users (shuffle these around a bit)
+- % of cohort which are repeaters
+- 
